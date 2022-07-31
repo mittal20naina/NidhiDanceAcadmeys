@@ -1,0 +1,39 @@
+h3{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.myForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.myInput{
+    display: block;
+    text-align: center;
+    font-family: unset;
+    width: 40%;
+    padding: 8px;
+    margin: 7px;
+    border-radius: 10px;
+    font-size: medium;
+    outline: none;
+
+}
+
+.btn{
+    text-align: center;
+    padding: 10px;
+    margin: 7px;
+    border-radius: 10px;
+    font-size: medium;
+    color: black;
+    background-color: burlywood;
+    cursor: pointer;
+    font-family: unset;
+    outline: none;
+}
